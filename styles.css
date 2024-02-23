@@ -58,6 +58,6 @@ footer {
 a {
   color: black;
 }
-a:visited { color: grey; }
+a:visited { color: black; }
 a:hover { color: brown; }
-a:active { color: white; }
+a:active { color: brown; }
