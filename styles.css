@@ -58,3 +58,4 @@ footer {
 a {
   color: black;
 }
+a:visited { color: grey; }
