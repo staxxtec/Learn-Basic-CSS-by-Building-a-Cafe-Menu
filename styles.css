@@ -60,6 +60,9 @@ footer {
 a {
   color: black;
 }
+.address {
+  margin-bottom: 5px;
+}
 a:visited { color: black; }
 a:hover { color: brown; }
 a:active { color: brown; }
